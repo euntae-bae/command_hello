@@ -1,6 +1,10 @@
-print("Hello World! version 1.02")
+print("Hello World! version 1.03")
 print("(C)2018 euntae")
 print("Hello!")
 print("Hi World!")
 print("this program is TEST PROGRAM!")
-
+print("Nyang Cat")
+print("Cat Cat Comminist")
+print("#include <stdio.h>")
+print("int main(int argc, char **argv)")
+print("{ return 0; }")
